@@ -6,7 +6,7 @@ design, I also have a solid expertise in artificial intelligence (AI) and comput
 
 - 🌱 I’m currently learning Generative AI 
 - 💞️ I’m looking to collaborate on AI/mechanical/CAD project 
-- 📫 How to reach me : +212 636920407  -- ramdani.ing1@gmail.com --  Casablanca, Morocco
+- 📫 How to reach me : https://www.linkedin.com/in/ramdaniali/  --  +212 636920407  -- ramdani.ing1@gmail.com --  Casablanca, Morocco
 -  https://aliramdani.mobirisesite.com/
 <!---
 RAMDANI-ALI/RAMDANI-ALI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
